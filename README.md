@@ -1,5 +1,12 @@
 # How to correctly pronounce 'GIF' and other analysis on Stack Overflow Survey Data
 
+## Libraries Used
+* Numpy
+* Pandas
+* MatplotLib
+* SeaBorn
+
+
 ## Project Motivation
 This analysis uses the survey results from 2017 StackOverflow survey spanning 51k participants.
 I decided to use this data to uncover these three orthogonal topics.
