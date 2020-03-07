@@ -20,7 +20,7 @@ There are two data files
 * survey_results_schema.csv: Schema for the questions are asked in Survey.
 
 There is one jupyter notebook
-* StackOverflow_Analysis.ipynb: The notebook is used to analyse the three questions liked in Project Motivation. 
+* StackOverflow_Analysis.ipynb: The notebook is used to analyse the three questions mentioned in Project Motivation. 
 
 ## Results
 [This post](https://medium.com/@microrunner/how-to-correctly-pronounce-gif-and-other-analysis-on-stack-overflow-survey-data-e78663bbd505)
